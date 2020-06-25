@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/api        /index.html
+/        https://competent-nobel-f684ea.netlify.app/
